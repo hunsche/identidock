@@ -1,1 +1,1 @@
-Testando exemplo
+Testando automação de build
